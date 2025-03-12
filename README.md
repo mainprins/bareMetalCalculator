@@ -5,7 +5,7 @@ This is a bare-metal project for a simple calculator built using the ATmega328-1
 
 ## Circuit Diagram
 
-![Circuit Diagram]()
+![Circuit Diagram](images/calcSchematics.png)
 
 ## Features
 
