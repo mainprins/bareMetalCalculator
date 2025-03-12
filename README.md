@@ -2,6 +2,11 @@
 ## Overview
 
 This is a bare-metal project for a simple calculator built using the ATmega328-1 microcontroller, a 4x3 keypad, and an HD44780-2 LCD display. The calculator can perform basic arithmetic operations, including addition, subtraction, multiplication, and division. The project was designed as a learning exercise for interfacing with a keypad and LCD on the ATmega328-1 platform.
+
+## Circuit Diagram
+
+![Circuit Diagram]()
+
 ## Features
 
 Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
